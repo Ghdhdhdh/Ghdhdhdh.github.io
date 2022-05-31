@@ -1,0 +1,21 @@
+{
+  "name": "Ghdhdhdh.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd src && python3 -m http.server 8080",
+    "test": "cd src && npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghdhdhdh/Ghdhdhdh.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghdhdhdh/Ghdhdhdh.github.io/issues"
+  },
+  "homepage": "https://github.com/Ghdhdhdh/Ghdhdhdh.github.io#readme"
+}
